@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PopupMenuTest</string>
+
+    <string name="button1">show popup menu 1</string>
+    <string name="button2">show popup menu 2</string>
+
+    <string name="menuitem_aaa">aaa</string>
+    <string name="menuitem_bbb">bbb</string>
+
+    <string name="menuitem_www">www</string>
+    <string name="menuitem_xxx">xxx</string>
+    <string name="menuitem_yyy">yyy</string>
+    <string name="menuitem_zzz">zzz</string>
+
+</resources>
